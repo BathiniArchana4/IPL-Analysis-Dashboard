@@ -1,4 +1,4 @@
-#🏏 IPL Analysis Dashboard#
+🏏 #IPL Analysis Dashboard
 
 An interactive IPL Analytics Dashboard built using Power BI to analyze team performance, player statistics, tournament insights, and match trends from IPL datasets. This project focuses on transforming raw cricket data into meaningful visual insights for better performance analysis and storytelling.
 
